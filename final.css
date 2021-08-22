@@ -1,0 +1,26 @@
+.mycountry{
+    border: 4px solid greenyellow;
+}
+.header p{
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-decoration: underline;
+
+}
+.heading{
+    background-color:oldlace;
+    border: 4px solid lightseagreen;
+    
+}
+.mybody{
+    background-color: oldlace;
+    border: 4px solid greenyellow;
+}
+.name{
+    text-decoration: underline black;
+}
+body{
+    background-image:url(https://physicsworld.com/wp-content/uploads/2019/02/Facebook-map-of-global-connections.png);
+   
+}
